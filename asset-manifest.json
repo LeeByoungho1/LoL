@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LoL/static/css/main.2e4dda47.css",
-    "main.js": "/LoL/static/js/main.5ea12d6f.js",
+    "main.css": "/LoL/static/css/main.6c4d235b.css",
+    "main.js": "/LoL/static/js/main.cc56d803.js",
     "static/js/787.f1547674.chunk.js": "/LoL/static/js/787.f1547674.chunk.js",
     "index.html": "/LoL/index.html",
-    "main.2e4dda47.css.map": "/LoL/static/css/main.2e4dda47.css.map",
-    "main.5ea12d6f.js.map": "/LoL/static/js/main.5ea12d6f.js.map",
+    "main.6c4d235b.css.map": "/LoL/static/css/main.6c4d235b.css.map",
+    "main.cc56d803.js.map": "/LoL/static/js/main.cc56d803.js.map",
     "787.f1547674.chunk.js.map": "/LoL/static/js/787.f1547674.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e4dda47.css",
-    "static/js/main.5ea12d6f.js"
+    "static/css/main.6c4d235b.css",
+    "static/js/main.cc56d803.js"
   ]
 }
